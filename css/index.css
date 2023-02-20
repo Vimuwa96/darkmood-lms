@@ -20,6 +20,10 @@ body{
     text-align: justify;
 }
 
+.brand{
+    color:black;
+    text-transform: uppercase;
+}
 
 /* Dark Mood */
 /* The switch - the box around the slider */
@@ -85,7 +89,7 @@ body{
   }
 
   #darkmood{
-    position: fixed;
+    position: sticky;
     right:10px;
   }
 
